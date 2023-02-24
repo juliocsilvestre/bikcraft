@@ -9,6 +9,7 @@
 
 /* Utilidades */
 @import "/css/utilidades/componentes.css";
+@import "/css/utilidades/formulario.css";
 
 /* Home */
 @import "/css/home/intro.css";
@@ -16,7 +17,7 @@
 @import "/css/home/parceiros.css";
 @import "/css/home/depoimento.css";
 
-/* Bicicleta */
+/* Bicicletas */
 @import "/css/bicicletas/bicicletas-lista.css";
 @import "/css/bicicletas/bicicletas.css";
 
@@ -34,3 +35,10 @@
 
 /* Termos */
 @import "/css/termos/termos.css";
+
+@import "/css/orcamento/orcamento.css";
+
+/* Contato */
+
+@import "/css/contato/contato.css";
+@import "/css/contato/lojas.css";
