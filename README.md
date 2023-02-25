@@ -4,7 +4,8 @@
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS e acerca do modo "dark" de acordo com o dispositivo do usuario.
+- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS.
+
 
 ✔️ Técnicas e tecnologias utilizadas
 ---
