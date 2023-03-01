@@ -4,7 +4,7 @@
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS.
+- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS e Javascript.
 
 
 ✔️ Técnicas e tecnologias utilizadas
