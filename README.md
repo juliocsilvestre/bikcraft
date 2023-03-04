@@ -1,6 +1,6 @@
 <h1> 📁 Resumo do projeto</h1>
 
-- Este é um projeto de site para uma loja de bicilceta com o nome de bikcraft criado durante o curso da Origamid, com o objetivo de apresentar meus conhecimentos e habilidades em desenvolvimento web. O projeto foi construído utilizando HTML & CSS.
+- Este é um projeto de site para uma loja de bicilceta com o nome de bikcraft criado durante o curso da Origamid, com o objetivo de apresentar meus conhecimentos e habilidades em desenvolvimento web. O projeto foi construído utilizando JavaScript, HTML & CSS.
 
 🔨 Funcionalidades do projeto
 ---
