@@ -4,7 +4,7 @@
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS e Javascript.
+- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS e Javascript em simulação de uma loja Online.
 
 
 ✔️ Técnicas e tecnologias utilizadas
